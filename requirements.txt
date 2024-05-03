@@ -4,6 +4,6 @@ numpy
 seaborn
 matplotlib
 scikit-learn
-ydata-profiling
+ydata-profiling>=3.0.0
 pandas-profiling
 
