@@ -2,7 +2,7 @@ streamlit
 pandas
 numpy
 seaborn
-matplotlib==3.5.0
+matplotlib
 scikit-learn
 ydata-profiling
 pandas-profiling
