@@ -4,6 +4,4 @@ numpy
 seaborn
 matplotlib
 scikit-learn
-ydata-profiling==4.1.0
-pandas-profiling==3.2.0
-visions==0.7.4  # or the compatible version you identified
+ydata-profiling
