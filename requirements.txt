@@ -5,5 +5,4 @@ seaborn
 matplotlib
 scikit-learn
 ydata-profiling
-streamlit-pandas-profiling
-phik>=0.11.1
+streamlit-pandas-profiling=0.1.3
