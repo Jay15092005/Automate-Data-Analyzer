@@ -4,10 +4,17 @@ This application is designed to simplify the analysis and visualization of your 
 
 Features:
 Upload CSV Data: Start by uploading your CSV file containing the data you want to analyze.
+
+
 Data Visualization Options: Choose from a variety of plot types such as Scatter, Line, Bar, Count, Histogram, Box, Heatmap, and Pair plots to visualize your data.
+
+
 Data Transformation Options: Clean your data by removing duplicate values, replacing missing values, and converting categorical data to numerical.
+
 Download Processed DataFrame: Once you've processed your data, you can download the processed DataFrame as a CSV file.
+
 EDA Report: Generate an Exploratory Data Analysis (EDA) report using ydata_profiling, providing comprehensive insights into your data.
+
 DataExplore: Discover Insights, Cleanse Data, Excel in Analysis!
 
 This app aims to empower users with the tools and insights needed to explore and understand their data effectively. Upload your CSV file and start exploring!
