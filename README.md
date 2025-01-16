@@ -1,5 +1,6 @@
 Welcome to The DATA EXPLORER App!
 
+<h1>https://automate-data-analyzer-mcs7wdkp2kcxr4lyxybpv8.streamlit.app</h1>
 This application is designed to simplify the analysis and visualization of your data. Whether you're a data enthusiast or a professional analyst, this app provides a user-friendly interface to upload your CSV data, gain insights, clean your data, and perform various visualizations.
 
 Features:
